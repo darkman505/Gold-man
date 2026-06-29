@@ -1,0 +1,6 @@
+{
+  "name": "GOLD ERP ENTERPRISE",
+  "description": "Enterprise-grade Gold and Jewelry Store ERP + POS with showroom management, metal hedging, and seller drawers accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

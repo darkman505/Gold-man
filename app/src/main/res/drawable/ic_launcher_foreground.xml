@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Elegant Gold Orbit Ring framing the gemstone -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-36,0 a36,36 0 1,1 72,0 a36,36 0 1,1 -72,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#3CD4AF37" />
+
+    <!-- Gemstone Facets with varying premium metallic gold tones -->
+    
+    <!-- Facet 1: Top Center Highlight -->
+    <path
+        android:fillColor="#FFE699"
+        android:pathData="M44,35 L64,35 L70,48 L38,48 Z" />
+
+    <!-- Facet 2: Top Left Segment -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M34,35 L44,35 L38,48 L24,48 Z" />
+
+    <!-- Facet 3: Top Right Segment -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M64,35 L74,35 L84,48 L70,48 Z" />
+
+    <!-- Facet 4: Bottom Center Core -->
+    <path
+        android:fillColor="#F2C840"
+        android:pathData="M38,48 L70,48 L54,80 Z" />
+
+    <!-- Facet 5: Bottom Left Shadow -->
+    <path
+        android:fillColor="#997300"
+        android:pathData="M24,48 L38,48 L54,80 Z" />
+
+    <!-- Facet 6: Bottom Right Accent -->
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M70,48 L84,48 L54,80 Z" />
+        
+</vector>
